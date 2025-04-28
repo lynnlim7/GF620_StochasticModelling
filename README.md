@@ -38,7 +38,7 @@ Steps:
     - N = 84 (more frequent hedging)
 
 Using 50,000 Monte Carlo simulated paths to simulate stock prices and calculate the hedging error (difference between the replicated 
-portfolio and the true payoff at maturity)
+portfolio and the true payoff at maturity).
 The histograms of hedging errors for both N=21 and N=84
 
 ## Getting Started 
@@ -48,7 +48,6 @@ Steps to run project locally:
 ```bash
 # Create and activate a virtual environment 
 source .venv/bin/activate
-# .venv/bin/activate.fish for fish shell
 ```
 
 2. Install packages from requirements.txt
