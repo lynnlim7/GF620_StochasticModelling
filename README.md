@@ -41,25 +41,7 @@ Using 50,000 Monte Carlo simulated paths to simulate stock prices and calculate 
 portfolio and the true payoff at maturity).
 The histograms of hedging errors for both N=21 and N=84
 
-## Getting Started 
-Steps to run project locally: 
-1. Set up Python environment 
 
-```bash
-# Create and activate a virtual environment 
-source .venv/bin/activate
-```
-
-2. Install packages from requirements.txt
-```bash
-pip install -r requirements.txt
-```
-
-3. Run program
-After you activated the virtual environment, you can run the Python scripts. The virtual environemnt ensures the correct packages are used.
-```bash 
-python main.py
-```
 
 
 ## License
